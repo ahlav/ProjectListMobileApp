@@ -2,6 +2,8 @@
 
 Mobile application that lists projects using Memsource API, based on [React Native Starter Template](https://github.com/flatlogic/react-native-starter)
 
+<p align="center"><img src="https://github.com/ahlav/ProjectListMobileApp/blob/master/preview/login.png" alt="Example" width="200" height="400"><img src="https://github.com/ahlav/ProjectListMobileApp/blob/master/preview/list.png" alt="Example" width="200" height="400"></p>
+
 ## Getting Started
 
 #### 1. Clone and Install
