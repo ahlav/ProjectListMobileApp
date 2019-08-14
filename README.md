@@ -16,12 +16,12 @@ yarn install
 
 #### 2. Open ProjectListMobileApp in your simulator
 
-iOS:
-```
-yarn run:ios
-```
-
 Android:
 ```
 yarn run:android
+```
+
+iOS:
+```
+yarn run:ios
 ```
